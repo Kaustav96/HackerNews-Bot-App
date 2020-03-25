@@ -1,6 +1,7 @@
 # HackerNews-Bot-App
 
 ## Features
+- URL used - https://news.ycombinator.com/
 - Sit back & relax - you will get news having points more than 100 to your slack channel.
 - Get Slack Notification
 - Its ROBUST! 
