@@ -20,8 +20,8 @@ pip install beautifulsoup4
 ```
 - Clone this repo and create auth.py
 ```bash
-git clone https://github.com/Kaustav96/Joke-Bot-App.git
-cd Joke-Bot-App
+git clone https://github.com/Kaustav96/HackerNews-Bot-App
+cd HackerNews-Bot-App
 touch auth.py
 ```
 - Write your Slack Webhook into auth.py
